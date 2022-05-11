@@ -6,6 +6,12 @@
     <a href="https://www.instagram.com/minwuxk/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
     <br>
    <br><br>
+ 
+ ## 🏆 My stats
+![minwoogi github stay](https://github-readme-stats.vercel.app/api?username=minwoogi&count_private=true&show_icons=true&theme=radical)
+
+<br/>
+<br/>
 📧Contect: csc1925@naver.com
 </p>
   
