@@ -9,7 +9,7 @@
  
  ## 🏆 My stats
 ![minwoogi github stay](https://github-readme-stats.vercel.app/api?username=minwoogi&count_private=true&show_icons=true&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minwoogi&layout=compact&theme=tokyonight)
 <br/>
 <br/>
 📧Contect: csc1925@naver.com
