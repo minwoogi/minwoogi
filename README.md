@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Hello!%20minwoogi&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Hello!%20minwoogi&fontSize=90&animation=twinkling)
 
  <div align = "center">Hi,:raised_hands: I'm MinWookChoo @minwoogi :octocat:</br></br></br></div>
   <div align = "center">:cloud:SNS list:cloud:</div>
