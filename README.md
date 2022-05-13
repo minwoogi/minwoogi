@@ -11,7 +11,7 @@
  
  ## 🏆 My stats
 ![minwoogi github stay](https://github-readme-stats.vercel.app/api?username=minwoogi&count_private=true&show_icons=true&theme=radical)
-
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=csc1925">
 <br/>
 
 </p>
