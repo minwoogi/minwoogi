@@ -1,11 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Hello!%20minwoogi&fontSize=90&animation=twinkling)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=minwoogi&theme=dark)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minwoogi&show_icons=true&theme=dark)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=minwoogi&bg_color=000000&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
  <div align = "center">Hi,:raised_hands: I'm MinWookChoo @minwoogi :octocat:</br></br></br></div>
-  <div align = "center">:cloud:SNS:cloud:</div>
   <p  align="center">
-    <a href="https://www.instagram.com/minwuxk/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-    <br><br>
- 📧Contect: csc1925@naver.com
- 
    <br>
-<img src="http://mazandi.herokuapp.com/api?handle=csc1925&theme=warm"/>
