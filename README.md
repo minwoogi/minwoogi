@@ -8,10 +8,3 @@
  📧Contect: csc1925@naver.com
  
    <br>
- 
- ## 🏆 My stats
-![minwoogi github stay](https://github-readme-stats.vercel.app/api?username=minwoogi&count_private=true&show_icons=true&theme=radical)
-<br/>
-
-</p>
-  
