@@ -8,7 +8,7 @@
 </div>
 
 <div>
-    <img src="https://img.shields.io/badge/Apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
+    <img src="https://img.shields.io/badge/Apache tomcat-000000?style=flat-square&logo=apachetomcat&logoColor=yellow">
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">     
     <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"> 
@@ -17,8 +17,8 @@
 </div>
 
 <div>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=yellow"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
