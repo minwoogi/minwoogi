@@ -1,15 +1,11 @@
 ## ⚡️developing
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="64" height="64" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="64" height="64" /></div>
 <div>
-    <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-000000?style=flat-square&logo=spring&logoColor=green">
     <img src="https://img.shields.io/badge/Springboot-000000?style=flat-square&logo=springboot&logoColor=green">
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
-     <img src="https://img.shields.io/badge/Apache tomcat-000000?style=flat-square&logo=apachetomcat&logoColor=yellow">
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">     
-    <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"> 
-    <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=yellow"/>
      <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
 </div>
 
@@ -20,7 +16,10 @@
     <img src="https://img.shields.io/badge/Visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
     <img src="https://img.shields.io/badge/Androidstudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
-    <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
+</div>
+
+<div>
+     <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Gitkraken-179287?style=flat-square&logo=gitkraken&logoColor=white">
@@ -38,5 +37,7 @@
       <img align="right" width=400 src="http://github-readme-streak-stats.herokuapp.com?user=minwoogi&hide_border=true&theme=dark" alt="" />
     </a>
   </div>
+
+ 
 
  
